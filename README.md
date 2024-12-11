@@ -1,6 +1,7 @@
 # BdDETR
 
 # Dataset
+Download the [Common Objects in Context 2017](https://cocodataset.org/#download) to `./BdViT`.
 The code supports a datasets with the following directory structure:
 ```
 BdDETR
@@ -19,6 +20,9 @@ Quantize bits and basis change `--qb`, and the minimum and maximum values ​​
 cd BdDETR
 python3.10 decomposition.py --weights ./weights/detr/detr-r50-e632da11.pth --qb 8
 ```
+
+# Decomposed weights
+The decomposed weights can be downloaded [here](https://drive.google.com/file/d/1D2mto8ptMfxzuMQRnPMJbHks9vU3dQLU/view?usp=sharing).
 
 # Evaluation
 For evaluation, the model definition directory is `models_bd`.
