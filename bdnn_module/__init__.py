@@ -1,0 +1,2 @@
+from bdnn_module import conv_binary
+from bdnn_module import fully_connected_binary
