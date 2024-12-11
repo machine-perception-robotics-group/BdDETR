@@ -1,4 +1,4 @@
-# BdDETR
+# BdDETR: Binary-decomposed DETR
 
 # Dataset
 Download the [Common Objects in Context 2017](https://cocodataset.org/#download) to `./BdViT`.
