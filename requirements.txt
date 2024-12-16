@@ -1,0 +1,10 @@
+torch
+torchvision
+tqdm
+timm==0.5.4
+packaging
+scipy
+numba
+numpy==1.26.4
+scikit-learn
+pycocotools
