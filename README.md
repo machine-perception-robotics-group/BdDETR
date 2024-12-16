@@ -1,5 +1,11 @@
 # BdDETR: Binary-decomposed DETR
 
+# Installation
+```
+sudo apt-get install python3-tk
+pip install -r requirements.txt   
+```
+
 # Dataset
 Download the [Common Objects in Context 2017](https://cocodataset.org/#download) to `./BdViT`.
 The code supports a datasets with the following directory structure:
